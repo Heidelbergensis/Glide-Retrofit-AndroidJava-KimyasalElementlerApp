@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">H5200003_BatuhanKeskinFinal</string>
+    <string name="yenibilgisayfasi">yenibilgisayfasi</string>
+    <string name="textviewew">TextViewew</string>
+    <string name="elementler_final_projem">Elementler Final Projem</string>
+    <string name="element_ad">Element Adı:</string>
+    <string name="hidrojen">Hidrojen</string>
+    <string name="atom_numaras">Atom Numarası:</string>
+    <string name="_1000mg">1000mg</string>
+    <string name="sembol">Sembolü</string>
+    <string name="h">H</string>
+    <string name="isim">isim</string>
+    <string name="elementBilgi">elementBilgi</string>
+    <string name="resimUrl">resimUrl</string>
+    <string name="resimUrl2">resimUrl</string>
+    <string name="elementBilgi2">elementBilgi</string>
+    <string name="isim2">isim</string>
+    <string name="Ayarlar">Ayarlar</string>
+    <string name="cikis">Çıkış</string>
+    <string name="onBackPressed">Çıkmak istediğinize emin misiniz?</string>
+    <string name="onBackPressedYes">Evet</string>
+    <string name="onBackPressedNo">Hayır</string>
+    <string name="onNoConnection">İnternet bağlantınız yok.</string>
+    <string name="onNoConnectionSettings">Ayarlar</string>
+    <string name="onNoConnectionUyari">Uyarı!</string>
+    <string name="onNoConnectionCikis">Çıkış</string>
+</resources>

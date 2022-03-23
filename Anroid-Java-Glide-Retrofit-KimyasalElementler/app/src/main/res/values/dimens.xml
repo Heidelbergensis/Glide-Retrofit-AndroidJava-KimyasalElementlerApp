@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="a_e_b_215">215dp</dimen>
+    <dimen name="a_e_b_0.5">0.5</dimen>
+    <dimen name="a_m_0.5">0.5</dimen>
+    <dimen name="a_m_215">215dp</dimen>
+    <dimen name="a_s_c_150">150dp</dimen>
+    <dimen name="a_s_c_250">250dp</dimen>
+    <dimen name="a_s_c_282">282dp</dimen>
+    <dimen name="a_s_c_111">111dp</dimen>
+    <dimen name="a_s_c_12">12sp</dimen>
+    <dimen name="l_i_e_8">8dp</dimen>
+    <dimen name="l_i_e_w_120">120dp</dimen>
+    <dimen name="l_i_e_h_120">120dp</dimen>
+    <dimen name="l_i_e_m_10">10dp</dimen>
+    <dimen name="l_i_e_mt_10">10dp</dimen>
+    <dimen name="l_i_e_mb_10">10dp</dimen>
+    <dimen name="lie_ms10">10dp</dimen>
+    <dimen name="lie_mt10">10dp</dimen>
+    <dimen name="lie__mt_10">10dp</dimen>
+    <dimen name="lie2_mt10">10dp</dimen>
+    <dimen name="lie3_mt10">10dp</dimen>
+    <dimen name="lie4_mt10">10dp</dimen>
+    <dimen name="lie_w0">0dp</dimen>
+    <dimen name="lie5_mt5">5dp</dimen>
+    <dimen name="lie5_m10">10dp</dimen>
+    <dimen name="lie5_mb20">20dp</dimen>
+    <dimen name="textSize_34">34sp</dimen>
+</resources>
